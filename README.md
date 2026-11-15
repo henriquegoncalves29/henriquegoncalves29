@@ -248,8 +248,6 @@ timeline
 
 <br/><br/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=henriquegoncalves29&show_icons=true&hide_border=true&bg_color=050914&title_color=38BDF8&icon_color=38BDF8&text_color=C9D1D9&ring_color=0EA5E9&include_all_commits=true&locale=pt-br"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriquegoncalves29&layout=compact&hide_border=true&bg_color=050914&title_color=38BDF8&text_color=C9D1D9&locale=pt-br"/>
 
 <br/><br/>
 
