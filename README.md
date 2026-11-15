@@ -25,28 +25,7 @@
 
 <br/>
 
-```bash
-$ whoami
-henrique-goncalves
 
-$ cat perfil.json
-{
-  "nome":        "Henrique Gonçalves",
-  "curso":       "Ciência da Computação",
-  "foco":        "Análise de Dados",
-  "superpoder":  "transformar informação em conhecimento",
-  "modo_atual":  "construindo a próxima versão de mim",
-  "versao":      "2.0.0-beta"
-}
-
-$ ./iniciar_jornada.sh
-[ OK ] curiosidade carregada
-[ OK ] lógica compilada
-[ .. ] análise em andamento
-[ .. ] solução em desenvolvimento
-```
-
----
 
 <div align="center">
 
