@@ -1,55 +1,80 @@
 <!-- ===================================================== -->
-<!--                 DATA CORE / HEADER                    -->
+<!--            HENRIQUE GONÇALVES · PERFIL v2.0           -->
 <!-- ===================================================== -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:050914,35:0B1F3A,70:075985,100:0284C7&height=220&section=header&text=HENRIQUE%20GONÇALVES&fontSize=43&fontColor=FFFFFF&fontAlignY=38&desc=DATA%20%7C%20LOGIC%20%7C%20TECHNOLOGY&descSize=15&descColor=7DD3FC&descAlignY=61"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:050914,40:0B1F3A,75:075985,100:0284C7&height=260&section=header&text=HENRIQUE%20GON%C3%87ALVES&fontSize=46&fontColor=FFFFFF&fontAlignY=40&desc=Dados%20%E2%80%A2%20L%C3%B3gica%20%E2%80%A2%20Tecnologia&descSize=17&descColor=7DD3FC&descAlignY=62&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2500&pause=900&color=38BDF8&center=true&vCenter=true&width=700&lines=DATA+IS+MORE+THAN+NUMBERS.;LOGIC+IS+THE+START+OF+EVERYTHING.;CURIOUS+MIND.+TECHNICAL+VISION.;BUILDING+MY+OWN+PATH+IN+TECH."/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=760&height=40&lines=Dados+s%C3%A3o+mais+do+que+n%C3%BAmeros.;A+l%C3%B3gica+%C3%A9+o+in%C3%ADcio+de+tudo.;Mente+curiosa.+Vis%C3%A3o+t%C3%A9cnica.;Construindo+meu+pr%C3%B3prio+caminho+em+tech.;SELECT+futuro+FROM+esfor%C3%A7o+WHERE+dedica%C3%A7%C3%A3o+%3D+100%25%3B"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/STATUS-EM%20CONSTRU%C3%87%C3%83O-0B1F3A?style=for-the-badge&labelColor=050914&color=0284C7"/>
+<img src="https://img.shields.io/badge/FOCO-AN%C3%81LISE%20DE%20DADOS-0B1F3A?style=for-the-badge&labelColor=050914&color=0284C7"/>
+<img src="https://img.shields.io/badge/CURSANDO-CI%C3%8ANCIA%20DA%20COMPUTA%C3%87%C3%83O-0B1F3A?style=for-the-badge&labelColor=050914&color=0284C7"/>
 
 <br/>
 
-<img src="https://img.shields.io/badge/STATUS-EM%20CONSTRUÇÃO-0B1F3A?style=for-the-badge&labelColor=050914&color=0284C7"/>
-<img src="https://img.shields.io/badge/FOCO-ANÁLISE%20DE%20DADOS-0B1F3A?style=for-the-badge&labelColor=050914&color=0284C7"/>
-<img src="https://img.shields.io/badge/MINDSET-ALWAYS%20EVOLVING-0B1F3A?style=for-the-badge&labelColor=050914&color=0284C7"/>
+<a href="https://github.com/henriquegoncalves29">
+  <img src="https://img.shields.io/github/followers/henriquegoncalves29?style=for-the-badge&logo=github&label=Seguidores&labelColor=050914&color=38BDF8"/>
+</a>
+<img src="https://komarev.com/ghpvc/?username=henriquegoncalves29&style=for-the-badge&color=0284C7&label=VISITAS+AO+PERFIL&labelColor=050914"/>
 
 </div>
 
 <br/>
 
-```text
-> INITIALIZING PROFILE...
-> USER: HENRIQUE GONÇALVES
-> FIELD: COMPUTER SCIENCE
-> INTEREST: DATA ANALYTICS
-> OBJECTIVE: TURNING INFORMATION INTO KNOWLEDGE
-> STATUS: BUILDING THE NEXT VERSION...
+```bash
+$ whoami
+henrique-goncalves
+
+$ cat perfil.json
+{
+  "nome":        "Henrique Gonçalves",
+  "curso":       "Ciência da Computação",
+  "foco":        "Análise de Dados",
+  "superpoder":  "transformar informação em conhecimento",
+  "modo_atual":  "construindo a próxima versão de mim",
+  "versao":      "2.0.0-beta"
+}
+
+$ ./iniciar_jornada.sh
+[ OK ] curiosidade carregada
+[ OK ] lógica compilada
+[ .. ] análise em andamento
+[ .. ] solução em desenvolvimento
 ```
 
 ---
 
 <div align="center">
 
-# 01 / QUEM ESTÁ POR TRÁS DOS DADOS
+## `01` &nbsp;/&nbsp; QUEM ESTÁ POR TRÁS DOS DADOS
 
-### Não basta ter informação. É preciso saber interpretá-la.
+### *Não basta ter informação. É preciso saber interpretá-la.*
 
 </div>
 
-Sou estudante de **Ciência da Computação**, construindo minha trajetória no universo da tecnologia e direcionando meu desenvolvimento para a área de **Análise de Dados**.
+Sou estudante de **Ciência da Computação** e estou direcionando minha trajetória para a área de **Análise de Dados**.
 
-Tenho interesse em entender como sistemas funcionam, como os dados se relacionam e como a lógica pode ser utilizada para resolver problemas reais.
+Me fascina entender **como os sistemas funcionam**, **como os dados se conectam** e **como a lógica pode resolver problemas reais**. Hoje, meu foco está em fortalecer os fundamentos: programação, algoritmos e modelagem de dados.
 
-Atualmente, estou fortalecendo meus fundamentos em programação, algoritmos e modelagem de dados.
-
-Não estou apenas aprendendo ferramentas. Estou construindo uma forma de pensar.
-
-<br/>
+> 💡 *Não estou apenas aprendendo ferramentas. Estou construindo uma forma de pensar.*
 
 <div align="center">
 
-`CURIOSIDADE` → `LÓGICA` → `ANÁLISE` → `SOLUÇÃO`
+```mermaid
+flowchart LR
+    A([🔍 Curiosidade]) --> B([🧠 Lógica])
+    B --> C([📊 Análise])
+    C --> D([🚀 Solução])
+    D -. aprendizado contínuo .-> A
+    style A fill:#0B1F3A,stroke:#38BDF8,color:#fff
+    style B fill:#0B1F3A,stroke:#38BDF8,color:#fff
+    style C fill:#0B1F3A,stroke:#38BDF8,color:#fff
+    style D fill:#075985,stroke:#7DD3FC,color:#fff
+```
 
 </div>
 
@@ -57,56 +82,73 @@ Não estou apenas aprendendo ferramentas. Estou construindo uma forma de pensar.
 
 <div align="center">
 
-# 02 / MY DIGITAL TOOLKIT
+## `02` &nbsp;/&nbsp; MEU ARSENAL DIGITAL
 
-*Ferramentas que fazem parte da minha jornada.*
+### *As ferramentas que fazem parte da minha jornada.*
 
 </div>
 
-<div align="center">
+<table align="center">
+<tr>
+<td align="center" width="33%">
 
-### `01` — PROGRAMAÇÃO
+**⌨️ PROGRAMAÇÃO**
 
 <img src="https://skillicons.dev/icons?i=c,python&theme=dark"/>
 
-### `02` — DADOS E BANCO DE DADOS
+<sub>Lógica, algoritmos<br/>e resolução de problemas</sub>
+
+</td>
+<td align="center" width="33%">
+
+**🗄️ DADOS**
 
 <img src="https://skillicons.dev/icons?i=mysql&theme=dark"/>
 
-### `03` — DESENVOLVIMENTO
+<sub>Modelagem, consultas<br/>e organização da informação</sub>
+
+</td>
+<td align="center" width="33%">
+
+**🛠️ DESENVOLVIMENTO**
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark"/>
 
-</div>
+<sub>Versionamento, colaboração<br/>e produtividade</sub>
+
+</td>
+</tr>
+</table>
 
 <p align="center">
-  <sub>Estudando, praticando e desenvolvendo minhas habilidades continuamente.</sub>
+  <sub>📚 Estudando, praticando e evoluindo todos os dias.</sub>
 </p>
 
 ---
 
 <div align="center">
 
-# 03 / CURRENT MISSION
+## `03` &nbsp;/&nbsp; MISSÃO ATUAL
 
-### O que estou construindo agora?
+### *O que estou construindo agora?*
 
 </div>
 
-| CAMPO | DIREÇÃO |
-|:---|:---|
-| PROGRAMMING | Lógica, algoritmos e linguagem C |
-| DATABASES | Modelagem de dados e SQL |
-| DATA ANALYTICS | Interpretação e exploração de dados |
-| DEVELOPMENT | Projetos práticos e evolução técnica |
-
-<br/>
+| 🎯 FRENTE | 📌 O QUE ESTOU TRABALHANDO | ⚡ NÍVEL DE FOCO |
+|:---|:---|:---|
+| **Programação** | Lógica, algoritmos e linguagem C | `██████████░` &nbsp;alto |
+| **Banco de Dados** | Modelagem de dados e SQL | `█████████░░` &nbsp;alto |
+| **Análise de Dados** | Interpretação e exploração de dados | `███████░░░░` &nbsp;crescendo |
+| **Desenvolvimento** | Projetos práticos e evolução técnica | `████████░░░` &nbsp;constante |
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/01-LEARN-0B1F3A?style=for-the-badge&labelColor=050914"/>
-<img src="https://img.shields.io/badge/02-PRACTICE-0B1F3A?style=for-the-badge&labelColor=050914"/>
-<img src="https://img.shields.io/badge/03-IMPROVE-0B1F3A?style=for-the-badge&labelColor=050914"/>
+<br/>
+
+<img src="https://img.shields.io/badge/01-APRENDER-0B1F3A?style=for-the-badge&labelColor=050914&color=0284C7"/>
+<img src="https://img.shields.io/badge/02-PRATICAR-0B1F3A?style=for-the-badge&labelColor=050914&color=0284C7"/>
+<img src="https://img.shields.io/badge/03-MELHORAR-0B1F3A?style=for-the-badge&labelColor=050914&color=0284C7"/>
+<img src="https://img.shields.io/badge/04-REPETIR-0B1F3A?style=for-the-badge&labelColor=050914&color=38BDF8"/>
 
 </div>
 
@@ -114,52 +156,58 @@ Não estou apenas aprendendo ferramentas. Estou construindo uma forma de pensar.
 
 <div align="center">
 
-# 04 / SELECTED PROJECTS
+## `04` &nbsp;/&nbsp; PROJETOS EM DESTAQUE
 
-### Ideias transformadas em código.
+### *Ideias transformadas em código.*
 
-*Cada projeto representa uma etapa da minha evolução.*
+<sub>Cada projeto é uma etapa da minha evolução.</sub>
 
 </div>
+
+<br/>
 
 <table align="center">
 <tr>
 <td width="50%" valign="top">
 
-### ◈ VIVA HOJE
+### 🌱 Viva Hoje
+`WEB` &nbsp; `DESENVOLVIMENTO`
 
 Projeto de desenvolvimento web.
 
-[ACESSAR REPOSITÓRIO ↗](https://github.com/henriquegoncalves29/viva-hoje)
+**[▶ Ver repositório](https://github.com/henriquegoncalves29/viva-hoje)**
 
 </td>
 <td width="50%" valign="top">
 
-### ◈ MODELAGEM HIROSHIMA
+### 🗺️ Modelagem Hiroshima
+`DADOS` &nbsp; `ACADÊMICO`
 
 Projeto acadêmico de modelagem de dados.
 
-[ACESSAR REPOSITÓRIO ↗](https://github.com/henriquegoncalves29/Modelagem_Hiroshima)
+**[▶ Ver repositório](https://github.com/henriquegoncalves29/Modelagem_Hiroshima)**
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### ◈ BARBEARIA NA BOA
+### 💈 Barbearia Na Boa
+`WEB` &nbsp; `DESENVOLVIMENTO`
 
 Projeto de desenvolvimento web.
 
-[ACESSAR REPOSITÓRIO ↗](https://github.com/henriquegoncalves29/barbearia_naboa)
+**[▶ Ver repositório](https://github.com/henriquegoncalves29/barbearia_naboa)**
 
 </td>
 <td width="50%" valign="top">
 
-### ◈ NEXT PROJECT
+### 🔒 Próximo Projeto
+`EM BREVE`
 
 Novas ideias, novos desafios e novos aprendizados.
 
-*Em desenvolvimento.*
+*Carregando... `▓▓▓░░░░░░░`*
 
 </td>
 </tr>
@@ -169,11 +217,51 @@ Novas ideias, novos desafios e novos aprendizados.
 
 <div align="center">
 
-# 05 / GITHUB ANALYTICS
+## `05` &nbsp;/&nbsp; ROADMAP DA JORNADA
 
-### Dados sobre minha própria jornada.
+### *Para onde estou indo.*
 
-*O código também conta histórias.*
+</div>
+
+```mermaid
+timeline
+    title Minha evolução em tecnologia
+    Base : Lógica de programação
+         : Algoritmos
+         : Linguagem C
+    Dados : Modelagem de dados
+          : SQL e MySQL
+          : Primeiros projetos acadêmicos
+    Agora : Python
+          : Exploração e análise de dados
+          : Projetos práticos
+    Próximo nível : Visualização de dados
+                  : Portfólio de análises
+                  : Primeira oportunidade na área
+```
+
+<details>
+<summary><b>🧭 Clique para ver meus princípios de trabalho</b></summary>
+
+<br/>
+
+- **Entender antes de decorar.** Quero saber o porquê das coisas funcionarem.
+- **Dados contam histórias.** Meu papel é aprender a ouvi-las.
+- **Pequenos commits, grandes resultados.** Constância vence intensidade.
+- **Errar faz parte.** Cada bug é uma aula gratuita.
+- **Compartilhar acelera.** Aprender em público é o caminho mais rápido.
+
+</details>
+
+---
+
+<div align="center">
+
+## `06` &nbsp;/&nbsp; ANALYTICS DO GITHUB
+
+### *Dados sobre a minha própria jornada.*
+
+<sub>O código também conta histórias.</sub>
 
 <br/>
 
@@ -181,17 +269,16 @@ Novas ideias, novos desafios e novos aprendizados.
 
 <br/><br/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=henriquegoncalves29&show_icons=true&hide_border=true&bg_color=050914&title_color=38BDF8&icon_color=38BDF8&text_color=C9D1D9&ring_color=0EA5E9&include_all_commits=true"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriquegoncalves29&layout=compact&hide_border=true&bg_color=050914&title_color=38BDF8&text_color=C9D1D9"/>
-
-<br/><br/>
-
-<img width="100%" src="https://streak-stats.demolab.com?user=henriquegoncalves29&theme=dark&hide_border=true&background=050914&ring=38BDF8&fire=0EA5E9&currStreakLabel=38BDF8"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=henriquegoncalves29&show_icons=true&hide_border=true&bg_color=050914&title_color=38BDF8&icon_color=38BDF8&text_color=C9D1D9&ring_color=0EA5E9&include_all_commits=true&locale=pt-br"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriquegoncalves29&layout=compact&hide_border=true&bg_color=050914&title_color=38BDF8&text_color=C9D1D9&locale=pt-br"/>
 
 <br/><br/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=henriquegoncalves29&bg_color=050914&color=38BDF8&line=0284C7&point=FFFFFF&area=true&hide_border=true"/>
+<img width="100%" src="https://streak-stats.demolab.com?user=henriquegoncalves29&theme=dark&hide_border=true&background=050914&ring=38BDF8&fire=0EA5E9&currStreakLabel=38BDF8&locale=pt_BR"/>
+
+<br/><br/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=henriquegoncalves29&bg_color=050914&color=38BDF8&line=0284C7&point=FFFFFF&area=true&hide_border=true&custom_title=Atividade%20nos%20%C3%BAltimos%2031%20dias"/>
 
 </div>
 
@@ -199,24 +286,47 @@ Novas ideias, novos desafios e novos aprendizados.
 
 <div align="center">
 
-# 06 / THE NEXT VERSION
+## `07` &nbsp;/&nbsp; VAMOS CONECTAR?
 
-<img src="https://komarev.com/ghpvc/?username=henriquegoncalves29&style=for-the-badge&color=0284C7&label=VISITAS+AO+PERFIL"/>
+### *Bora trocar ideia sobre dados, código e tecnologia.*
 
-<br/><br/>
+<br/>
 
-### O conhecimento nunca termina.
+<a href="https://github.com/henriquegoncalves29">
+  <img src="https://img.shields.io/badge/GitHub-henriquegoncalves29-0B1F3A?style=for-the-badge&logo=github&logoColor=white&labelColor=050914&color=0284C7"/>
+</a>
+
+<!-- Descomente e preencha para adicionar mais contatos:
+<a href="https://www.linkedin.com/in/SEU-USUARIO">
+  <img src="https://img.shields.io/badge/LinkedIn-Conectar-0B1F3A?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=050914&color=0284C7"/>
+</a>
+<a href="mailto:seu@email.com">
+  <img src="https://img.shields.io/badge/E--mail-Enviar%20mensagem-0B1F3A?style=for-the-badge&logo=gmail&logoColor=white&labelColor=050914&color=0284C7"/>
+</a>
+-->
+
+</div>
+
+---
+
+<div align="center">
+
+## `08` &nbsp;/&nbsp; A PRÓXIMA VERSÃO
+
+### *O conhecimento nunca termina.*
 
 **PENSE. ANALISE. CONSTRUA. EVOLUA.**
 
 <br/>
 
-`01001000 01000101 01001110 01010010 01001001 01010001 01010101 01000101`
+```text
+01001000 01000101 01001110 01010010 01001001 01010001 01010101 01000101
+```
 
-<sub>HENRIQUE GONÇALVES · COMPUTER SCIENCE · 2026</sub>
+<sub>HENRIQUE GONÇALVES · CIÊNCIA DA COMPUTAÇÃO · 2026</sub>
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050914,35:0B1F3A,70:075985,100:0284C7&height=130&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050914,40:0B1F3A,75:075985,100:0284C7&height=140&section=footer&animation=twinkling"/>
 
 </div>
